@@ -1,0 +1,29 @@
+# Manipulación y cálculo numérico fundamental
+numpy>=1.22.0
+pandas>=1.4.0
+scipy>=1.8.0
+
+# Adquisición de datos financieros
+yfinance>=0.2.0
+
+# Gestión clásica de portafolios y métricas de rendimiento
+PyPortfolioOpt>=1.5.0
+quantstats>=0.0.62
+
+# Econometría, series de tiempo y modelado de volatilidad
+statsmodels>=0.13.0
+arch>=5.3.0
+
+# Machine Learning y aprendizaje estadístico
+scikit-learn>=1.0.0
+xgboost>=1.6.0
+
+# Optimización matemática avanzada (Programación Convexa y CVaR)
+cvxpy>=1.2.0
+
+# Visualización estática e interactiva
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+requests>=2.32.5

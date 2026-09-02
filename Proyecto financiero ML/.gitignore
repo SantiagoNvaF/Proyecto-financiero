@@ -1,0 +1,19 @@
+# Ignorar todos los archivos CSV en cualquier parte del proyecto
+*.csv
+**/*.csv
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Metadatos del sistema
+.DS_Store
+Thumbs.db
